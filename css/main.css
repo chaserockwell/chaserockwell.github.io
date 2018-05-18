@@ -2,7 +2,8 @@
 * {
   font-family: "Josefin Sans", sans-serif; }
 
-html {
+html,
+body {
   background-color: #e6e6e6;
   overflow-x: hidden; }
 
